@@ -61,7 +61,7 @@ const News = (props) => {
             style={{
               width: "100%",
               display: "flex",
-              justifyContent: "space-between",
+              justifyContent: "space-evenly",
               gap: "5px",
               margin: "0px",
               padding: "0px",
